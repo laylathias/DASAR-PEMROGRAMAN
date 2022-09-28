@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1664342204 source:c:\dasar pemrograman\pertemuan 7\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+
